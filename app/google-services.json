@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "479189538926",
+    "firebase_url": "https://mi-casa-7a77c.firebaseio.com",
+    "project_id": "mi-casa-7a77c",
+    "storage_bucket": "mi-casa-7a77c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479189538926:android:98982e613cd4cbaf",
+        "android_client_info": {
+          "package_name": "com.example.micasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479189538926-3s3m9v4825pu97l8heepr5f72mqc4ji6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.micasa",
+            "certificate_hash": "ca0b50bdf888e262ec3fd658301f0a60348421a5"
+          }
+        },
+        {
+          "client_id": "479189538926-opcmclpp13g70en74iucq4uc5ibasiri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1rzeyphXF_SLGU4d3qN4TuuqYd2lDftE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479189538926-opcmclpp13g70en74iucq4uc5ibasiri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
